@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">SMSReader</string>
+    <string name="SMSReceiverDB">SMSReceiverDB</string>
+    <string name="SMSReceiverPref">SMSReceiverPref</string>
+    <string name="FilterType">FilterType</string>
+</resources>
